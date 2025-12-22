@@ -1,4 +1,4 @@
 # backend_project
 A backend code in JavaScript
 
-![Project Diagram](image/Diagram%20of%20model.png)
+![Project Diagram](Image/Diagram%20of%20model.png)
